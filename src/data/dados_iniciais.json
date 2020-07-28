@@ -1,0 +1,159 @@
+{
+  "categorias": [
+    {
+      "titulo": "Cervejas Ipas",
+      "link": "https://www.youtube.com/watch?v=j0W_2aG7DWQ",
+      "cor": "#b87333",
+      "link_extra": {
+        "text": "Cervejas Ipas",
+        "url": "https://www.youtube.com/watch?v=j0W_2aG7DWQ"
+      },
+      "videos": [
+        {
+          "titulo": "Cervejas IPAs do Jeito Inglês ",
+          "url": "https://www.youtube.com/watch?v=B5wg89ylGmc"
+        },
+        {
+          "titulo": "IPA - Tudo que você precisa saber sobre ela ",
+          "url": "https://www.youtube.com/watch?v=XT9MjgjmS1A"
+        },
+        {
+          "titulo": "Teste Cego de IPA's Nacionais | Anbev x Brasil Kirin",
+          "url": "https://www.youtube.com/watch?v=CX6ITmc3ENM"
+        },
+        {
+          "titulo": "English IPA x American IPA",
+          "url": "https://www.youtube.com/watch?v=HJRH-QLCK8E"
+        },
+        {
+          "titulo": "O que é cerveja India Pale Ale (IPA)",
+          "url": "https://www.youtube.com/watch?v=j0W_2aG7DWQ"
+        },
+        {
+          "titulo": "Minuto da Cerveja: 3 IPAs Nacionais",
+          "url": "https://www.youtube.com/watch?v=KWKySCo3dCE"
+        },
+        {
+          "titulo": "O que é uma CERVEJA IPA?",
+          "url": "https://www.youtube.com/watch?v=Z2hzvmIpWQI"
+        },
+        {
+          "titulo": "Tudo sobre IPAs",
+          "url": "https://www.youtube.com/watch?v=Qqv10RHncdw"
+        }        
+      ]
+    },
+    {
+      "titulo": "Cervejas Lager",
+      "cor": "#bca62f",
+      "link_extra": {
+        "text": "Cervejas Lager",
+        "url": "https://www.youtube.com/watch?v=TIVxtll5XsA"
+      },
+      "videos": [
+        {
+          "titulo": "American Lager",
+          "url": "https://www.youtube.com/watch?v=TIVxtll5XsA"
+        },
+        {
+          "titulo": "Como fazer uma Boa Lager (Dicas de Fermentação)",
+          "url": "https://www.youtube.com/watch?v=cVNnGc4bCuQ"
+        },
+        {
+          "titulo": "Como Fazer uma Cerveja Lager em 2 Semanas",
+          "url": "https://www.youtube.com/watch?v=AKXUa99sXp8"
+        },
+        {
+          "titulo": "Colorado Ribeirão Lager | Degustação Doutor Breja",
+          "url": "https://www.youtube.com/watch?v=Jc42Dp0v1dI"
+        }, 
+        {
+          "titulo": "Dama Bier American Lager | Degustação Doutor Breja",
+          "url": "https://www.youtube.com/watch?v=yi4ggec23pI"
+        }
+      ]
+    },
+    {
+      "titulo": "Cervejas Witbier",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cervejas Witbie",
+        "url": "https://www.youtube.com/watch?v=pb49QhtDXMw"
+      },
+      "videos": [
+        {
+          "titulo": "Degustação Blue Moon - Witbier",
+          "url": "https://www.youtube.com/watch?v=pb49QhtDXMw"
+        },
+        {
+          "titulo": "Guerra das Brejas #006 Witbiers - Hoegaarden vs Blue Moon",
+          "url": "https://www.youtube.com/watch?v=uQe3Ti6Kxwg"
+        },
+        {
+          "titulo": "Hoegaarden - O que é WitBier",
+          "url": "https://www.youtube.com/watch?v=QIAQOkny_KQ"
+        },
+        {
+          "titulo": "Degustação da cerveja: BADEN BADEN WITBIER - Papo & Breja #17",
+          "url": "https://www.youtube.com/watch?v=WUwe8ZRcLrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Cervejas Pilsen",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Cervejas Pilsen",
+        "url": "https://www.youtube.com/watch?v=KZdYO9w_PFE"
+      },
+      "videos": [
+        {
+          "titulo": "Degustação - Corona Extra Pilsen",
+          "url": "https://www.youtube.com/watch?v=KZdYO9w_PFE"
+        },
+        {
+          "titulo": "Degustação Império Puro Malte - Pilsen",
+          "url": "https://www.youtube.com/watch?v=_sh8cVYCatg"
+        },
+        {
+          "titulo": "CERVEJAS PILSEN! Bóra Beber Uma Cerva",
+          "url": "https://www.youtube.com/watch?v=ebosAjsnxbI"
+        },
+        {
+          "titulo": "Degustação Eisenbahn Pilsen - Puro Malte",
+          "url": "https://www.youtube.com/watch?v=IxyOZtjxQ24"
+        }
+      ]
+    },
+    {
+      "titulo": "Comidas de Boteco",
+      "cor": "red",
+      "link_extra": {
+        "text": "Comidas de Boteco",
+        "url": "https://www.youtube.com/watch?v=UadiUF2hA_M&list=PLBBt7qH_bZnoGBDLT_ZZYNzOCSdzXe-DC"
+      },
+      "videos": [
+        {
+          "titulo": "Bolinho de carne com PROVOLONE - Rango do Rafa",
+          "url": "https://www.youtube.com/watch?v=UadiUF2hA_M&list=PLBBt7qH_bZnoGBDLT_ZZYNzOCSdzXe-DC"
+        },
+        {
+          "titulo": "Manual da Bruschetta Perfeita - Rango do Rafa",
+          "url": "https://www.youtube.com/watch?v=3VlZG6sSbpc&list=PLBBt7qH_bZnoGBDLT_ZZYNzOCSdzXe-DC&index=2"
+        },
+        {
+          "titulo": "3 COMIDAS DE BOTECO PARA FAZER EM CASA",
+          "url": "https://www.youtube.com/watch?v=VlxWLmsHHM0"
+        },
+        {
+          "titulo": "O Melhor Petisco do Mundo!",
+          "url": "https://www.youtube.com/watch?v=T-OfVmVoMtA"
+        },
+        {
+          "titulo": "BOLINHO DE CARNE RECHEADO-RECEITA FÁCIL E DELICIOSA",
+          "url": "https://www.youtube.com/watch?v=OdxfrGHmMUQ"
+        }
+      ]
+    }
+  ]
+}
